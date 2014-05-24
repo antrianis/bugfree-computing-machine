@@ -1,0 +1,20 @@
+-- Example 0
+3+5
+
+
+-- Example 1
+9..+.5...*....3
+
+
+-- Example 2
+5.3+4
+
+dotForm is not in dot notation, check character 2.
+-- Example 3
+9*9*9*9*9*9*9*9*9*9*9*9*9*9
+
+dotForm must contain between 1 and 25 characters, inclusive.
+-- Example 4
+3.........../...........4
+
+

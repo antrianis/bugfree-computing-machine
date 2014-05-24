@@ -5,5 +5,7 @@ if __name__ == '__main__':
     t = int(raw_input())
     nums = map(int,sys.stdin.readlines())
 
-    print sorted(nums)
+    nums = sorted(nums)
+    for n in nums:
+        print n
 
