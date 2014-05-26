@@ -1,0 +1,20 @@
+-- Example 0
+-XX-XXXX-XXX-
+
+243
+-- Example 1
+-XX--XXXX---XXX-
+
+204003
+-- Example 2
+-X-
+
+1
+-- Example 3
+-X-------
+
+1000000
+-- Example 4
+-XXXXXXXXX--XXXXXXXXX-XXXXXXXXX-XXXXXXX-XXXXXXXXX-
+
+909979
