@@ -1,6 +1,5 @@
+from collections import Counter
+
+
 def duplicate_count(text):
-    r = [0] * 26
-    text = text.lower()
-    for t in text:
-        r[ord(t) - 97] += 1
-    return sum(1 for l in r if l > 1)
+    return sum(1 for c, n in Counter(text.lower()).iteritems() if n > 1)
